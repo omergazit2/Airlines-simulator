@@ -1,7 +1,7 @@
 to simulate new flights to your app follow the next steps:
 
 1) import docker image
-```javascript
+```
 docker pull omergazi/flight-load:latest
 ```
 2) download config diractory and change fileds in appsync_config.py maching your appsync credentials
